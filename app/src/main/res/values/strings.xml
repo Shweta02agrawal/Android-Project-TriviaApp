@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TriviaApp</string>
+    <string name="title">Trivia</string>
+    <string name="true_title">True</string>
+    <string name="false_text">False</string>
+    <string name="previous_button">previous button</string>
+    <string name="next_button">next button</string>
+    <string name="counter_questions">0 outof 1000</string>
+    <string name="question_view">Here we are going to add questions</string>
+    <string name="correct_answer">Correct</string>
+    <string name="wrong_answer">Incorrect</string>
+    <string name="Score">0</string>
+    <string name="final_score">Highest Score: 3939249</string>
+</resources>
